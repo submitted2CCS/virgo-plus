@@ -1,4 +1,4 @@
-# Unlayered Libra
+# Virgo++
 
 ## Introduction
 This is an implementation of *Doubly Efficient Interactive Proofs for General Arithmetic Circuits with Linear Prover Time*.
